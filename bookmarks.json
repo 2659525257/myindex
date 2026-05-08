@@ -967,6 +967,153 @@
       ]
     },
     {
+      "id": "movies",
+      "name": "综合影视类网站",
+      "icon": "🎬",
+      "bookmarks": [
+        {
+          "id": 135,
+          "title": "低端影视",
+          "url": "https://ddys.la",
+          "description": "无广告极简设计，支持4K播放",
+          "icon": "https://ddys.la/favicon.ico"
+        },
+        {
+          "id": 136,
+          "title": "茶杯狐",
+          "url": "https://www.cupfox.com",
+          "description": "影视资源聚合搜索引擎",
+          "icon": "https://www.cupfox.com/favicon.ico"
+        },
+        {
+          "id": 137,
+          "title": "奈飞工厂",
+          "url": "https://netflixgc.com",
+          "description": "同步Netflix资源",
+          "icon": "https://netflixgc.com/favicon.ico"
+        },
+        {
+          "id": 138,
+          "title": "片库",
+          "url": "https://www.mypianku.net",
+          "description": "多线路切换",
+          "icon": "https://www.mypianku.net/favicon.ico"
+        },
+        {
+          "id": 139,
+          "title": "独播库",
+          "url": "https://www.duboku.tv",
+          "description": "更新快、解析快",
+          "icon": "https://www.duboku.tv/favicon.ico"
+        },
+        {
+          "id": 140,
+          "title": "555电影网",
+          "url": "https://www.o8tv.com",
+          "description": "支持弹幕，有APP",
+          "icon": "https://www.o8tv.com/favicon.ico"
+        },
+        {
+          "id": 141,
+          "title": "电影天堂",
+          "url": "https://www.dytt8.net",
+          "description": "老牌资源站",
+          "icon": "https://www.dytt8.net/favicon.ico"
+        },
+        {
+          "id": 142,
+          "title": "蜜蜂视频",
+          "url": "https://www.bfzy.tv",
+          "description": "高清资源丰富",
+          "icon": "https://www.bfzy.tv/favicon.ico"
+        },
+        {
+          "id": 143,
+          "title": "在线之家",
+          "url": "https://www.zxzj.me",
+          "description": "主打国外剧资源",
+          "icon": "https://www.zxzj.me/favicon.ico"
+        },
+        {
+          "id": 144,
+          "title": "云播TV",
+          "url": "https://www.yunbotv.com",
+          "description": "界面简洁，支持手机播放",
+          "icon": "https://www.yunbotv.com/favicon.ico"
+        },
+        {
+          "id": 145,
+          "title": "泥巴影院",
+          "url": "https://www.nibayy.com",
+          "description": "资源丰富",
+          "icon": "https://www.nibayy.com/favicon.ico"
+        },
+        {
+          "id": 146,
+          "title": "剧嗨",
+          "url": "https://www.juhi.cc",
+          "description": "页面简洁",
+          "icon": "https://www.juhi.cc/favicon.ico"
+        },
+        {
+          "id": 147,
+          "title": "电影蜜蜂",
+          "url": "https://www.dybee.tv",
+          "description": "电影资源为主",
+          "icon": "https://www.dybee.tv/favicon.ico"
+        },
+        {
+          "id": 148,
+          "title": "奈飞中文",
+          "url": "https://yanetflix.com",
+          "description": "支持倍速播放和弹幕",
+          "icon": "https://yanetflix.com/favicon.ico"
+        },
+        {
+          "id": 149,
+          "title": "掘金影视",
+          "url": "https://denver8.com",
+          "description": "宝藏网站",
+          "icon": "https://denver8.com/favicon.ico"
+        },
+        {
+          "id": 150,
+          "title": "天天追剧",
+          "url": "https://www.tiantianzhuiju.com",
+          "description": "日更30+热剧",
+          "icon": "https://www.tiantianzhuiju.com/favicon.ico"
+        },
+        {
+          "id": 151,
+          "title": "秀儿影视",
+          "url": "https://www.xiuerying.com",
+          "description": "豆瓣高分专区",
+          "icon": "https://www.xiuerying.com/favicon.ico"
+        },
+        {
+          "id": 152,
+          "title": "看剧吧",
+          "url": "https://www.k剧8.com",
+          "description": "资源全、线路多",
+          "icon": "https://www.k剧8.com/favicon.ico"
+        },
+        {
+          "id": 153,
+          "title": "爱迪影视",
+          "url": "https://www.aidiyy.com",
+          "description": "蓝光1080P画质",
+          "icon": "https://www.aidiyy.com/favicon.ico"
+        },
+        {
+          "id": 154,
+          "title": "特看网",
+          "url": "https://www.tekanwang.com",
+          "description": "新片预告首发",
+          "icon": "https://www.tekanwang.com/favicon.ico"
+        }
+      ]
+    },
+    {
       "id": "other",
       "name": "其他服务",
       "icon": "🌟",
