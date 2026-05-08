@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "id": "dev",
+      "name": "开发工具",
+      "icon": "💻",
+      "bookmarks": [
+        {
+          "id": 1,
+          "title": "GitHub",
+          "url": "https://github.com",
+          "description": "全球最大的代码托管平台",
+          "icon": "https://github.githubassets.com/favicons/favicon.svg"
+        },
+        {
+          "id": 2,
+          "title": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "程序员问答社区",
+          "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico"
+        },
+        {
+          "id": 3,
+          "title": "VS Code",
+          "url": "https://code.visualstudio.com",
+          "description": "微软开源代码编辑器",
+          "icon": "https://code.visualstudio.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "设计资源",
+      "icon": "🎨",
+      "bookmarks": [
+        {
+          "id": 4,
+          "title": "Dribbble",
+          "url": "https://dribbble.com",
+          "description": "设计师作品展示平台",
+          "icon": "https://cdn.dribbble.com/assets/favicon-01.png"
+        },
+        {
+          "id": 5,
+          "title": "Figma",
+          "url": "https://figma.com",
+          "description": "在线协作设计工具",
+          "icon": "https://static.figma.com/app/icon/1/favicon.png"
+        },
+        {
+          "id": 6,
+          "title": "Unsplash",
+          "url": "https://unsplash.com",
+          "description": "免费高质量图片库",
+          "icon": "https://unsplash.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "常用工具",
+      "icon": "🔧",
+      "bookmarks": [
+        {
+          "id": 7,
+          "title": "Google Translate",
+          "url": "https://translate.google.com",
+          "description": "谷歌翻译",
+          "icon": "https://translate.google.com/favicon.ico"
+        },
+        {
+          "id": 8,
+          "title": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "图片压缩工具",
+          "icon": "https://tinypng.com/images/favicon.ico"
+        },
+        {
+          "id": 9,
+          "title": "JSON Editor",
+          "url": "https://jsoneditoronline.org",
+          "description": "在线JSON编辑器",
+          "icon": "https://jsoneditoronline.org/img/favicon.png"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "bookmarks": [
+        {
+          "id": 10,
+          "title": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web开发文档",
+          "icon": "https://developer.mozilla.org/favicon.ico"
+        },
+        {
+          "id": 11,
+          "title": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线课程平台",
+          "icon": "https://www.coursera.org/favicon.ico"
+        },
+        {
+          "id": 12,
+          "title": "LeetCode",
+          "url": "https://leetcode.com",
+          "description": "算法练习平台",
+          "icon": "https://leetcode.com/favicon.ico"
+        }
+      ]
+    }
+  ]
+}

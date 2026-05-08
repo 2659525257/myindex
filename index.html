@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的书签导航</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔖</text></svg>">
+</head>
+<body>
+    <!-- 汉堡菜单按钮（移动端） -->
+    <button class="hamburger-btn" id="hamburgerBtn" aria-label="打开菜单">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+    </button>
+
+    <!-- 遮罩层（移动端） -->
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <!-- 侧边分类栏 -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h2 class="sidebar-title">📚 分类导航</h2>
+            <button class="sidebar-close-btn" id="sidebarCloseBtn" aria-label="关闭菜单">✕</button>
+        </div>
+        <nav class="sidebar-nav" id="sidebarNav">
+            <!-- 分类列表将通过 JavaScript 动态加载 -->
+        </nav>
+    </aside>
+
+    <div class="container">
+        <header class="header">
+            <h1 class="title">
+                <span class="emoji">🔖</span>
+                我的书签导航
+            </h1>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索书签..." autocomplete="off">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="M21 21l-4.35-4.35"></path>
+                </svg>
+            </div>
+        </header>
+
+        <main class="main-content" id="mainContent">
+            <!-- 书签内容将通过 JavaScript 动态加载 -->
+        </main>
+
+        <footer class="footer">
+            <p>© 2026 我的书签导航 | 保留所有权利</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
