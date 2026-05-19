@@ -1,660 +1,100 @@
 {
   "categories": [
     {
-      "id": "opensource",
-      "name": "开源社区与代码托管平台",
-      "icon": "📁",
-      "bookmarks": [
-        {
-          "id": 1,
-          "title": "GitHub",
-          "url": "https://github.com",
-          "description": "全球最大的开源代码托管平台，拥有超过5千万开发者",
-          "icon": "https://github.githubassets.com/favicons/favicon.svg"
-        },
-        {
-          "id": 2,
-          "title": "GitLab",
-          "url": "https://gitlab.com",
-          "description": "支持私有化部署的代码托管平台，提供完整DevOps工具链",
-          "icon": "https://gitlab.com/favicon.ico"
-        },
-        {
-          "id": 3,
-          "title": "SourceForge",
-          "url": "https://sourceforge.net",
-          "description": "老牌开源项目托管平台",
-          "icon": "https://sourceforge.net/favicon.ico"
-        },
-        {
-          "id": 4,
-          "title": "Bitbucket",
-          "url": "https://bitbucket.org",
-          "description": "Atlassian旗下的代码托管平台",
-          "icon": "https://bitbucket.org/favicon.ico"
-        },
-        {
-          "id": 5,
-          "title": "Gitee (码云)",
-          "url": "https://gitee.com",
-          "description": "国内领先的代码托管平台，访问速度快，支持中文",
-          "icon": "https://gitee.com/favicon.ico"
-        },
-        {
-          "id": 6,
-          "title": "开源中国",
-          "url": "https://www.oschina.net",
-          "description": "国内最大的开源技术社区，推广开源项目",
-          "icon": "https://www.oschina.net/favicon.ico"
-        },
-        {
-          "id": 7,
-          "title": "GitCode",
-          "url": "https://gitcode.com",
-          "description": "CSDN旗下的代码托管平台",
-          "icon": "https://gitcode.com/favicon.ico"
-        },
-        {
-          "id": 8,
-          "title": "Linux Kernel Archives",
-          "url": "https://www.kernel.org",
-          "description": "Linux内核官方发布网站",
-          "icon": "https://www.kernel.org/favicon.ico"
-        },
-        {
-          "id": 9,
-          "title": "Apache Software Foundation",
-          "url": "https://www.apache.org",
-          "description": "Apache开源基金会",
-          "icon": "https://www.apache.org/favicon.ico"
-        },
-        {
-          "id": 10,
-          "title": "Eclipse Foundation",
-          "url": "https://www.eclipse.org",
-          "description": "Eclipse开源基金会",
-          "icon": "https://www.eclipse.org/favicon.ico"
-        },
-        {
-          "id": 11,
-          "title": "Linaro",
-          "url": "https://www.linaro.org",
-          "description": "Arm架构开源社区",
-          "icon": "https://www.linaro.org/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "community",
-      "name": "技术社区与问答平台",
-      "icon": "💬",
-      "bookmarks": [
-        {
-          "id": 12,
-          "title": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "全球最大的程序员问答社区",
-          "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico"
-        },
-        {
-          "id": 13,
-          "title": "Reddit - r/programming",
-          "url": "https://www.reddit.com/r/programming",
-          "description": "编程技术讨论社区",
-          "icon": "https://www.reddit.com/favicon.ico"
-        },
-        {
-          "id": 14,
-          "title": "Hacker News",
-          "url": "https://news.ycombinator.com",
-          "description": "技术创业和编程新闻社区",
-          "icon": "https://news.ycombinator.com/favicon.ico"
-        },
-        {
-          "id": 15,
-          "title": "Dev.to",
-          "url": "https://dev.to",
-          "description": "开发者技术博客社区",
-          "icon": "https://dev.to/favicon.ico"
-        },
-        {
-          "id": 16,
-          "title": "CSDN",
-          "url": "https://www.csdn.net",
-          "description": "中国专业IT技术社区，提供知识传播、在线学习等服务",
-          "icon": "https://www.csdn.net/favicon.ico"
-        },
-        {
-          "id": 17,
-          "title": "掘金",
-          "url": "https://juejin.cn",
-          "description": "高质量技术社区，涵盖前端/后端/AI等内容",
-          "icon": "https://juejin.cn/favicon.ico"
-        },
-        {
-          "id": 18,
-          "title": "博客园",
-          "url": "https://www.cnblogs.com",
-          "description": "面向开发者的知识分享社区",
-          "icon": "https://www.cnblogs.com/favicon.ico"
-        },
-        {
-          "id": 19,
-          "title": "SegmentFault (思否)",
-          "url": "https://segmentfault.com",
-          "description": "中文技术问答社区，类似Stack Overflow",
-          "icon": "https://segmentfault.com/favicon.ico"
-        },
-        {
-          "id": 20,
-          "title": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "程序员创意社区，讨论技术、职场、生活",
-          "icon": "https://www.v2ex.com/favicon.ico"
-        },
-        {
-          "id": 21,
-          "title": "51CTO",
-          "url": "https://www.51cto.com",
-          "description": "专注于IT人职业成长平台",
-          "icon": "https://www.51cto.com/favicon.ico"
-        },
-        {
-          "id": 22,
-          "title": "InfoQ",
-          "url": "https://www.infoq.cn",
-          "description": "专注于软件开发领域的技术社区",
-          "icon": "https://www.infoq.cn/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "learning",
-      "name": "学习资源与教育平台",
-      "icon": "📚",
-      "bookmarks": [
-        {
-          "id": 23,
-          "title": "中国大学MOOC",
-          "url": "https://www.icourse163.org",
-          "description": "国家精品在线开放课程平台",
-          "icon": "https://www.icourse163.org/favicon.ico"
-        },
-        {
-          "id": 24,
-          "title": "学堂在线",
-          "url": "https://www.xuetangx.com",
-          "description": "清华大学发起的在线教育平台",
-          "icon": "https://www.xuetangx.com/favicon.ico"
-        },
-        {
-          "id": 25,
-          "title": "爱课程",
-          "url": "https://www.icourses.cn",
-          "description": "国家级精品资源共享课平台",
-          "icon": "https://www.icourses.cn/favicon.ico"
-        },
-        {
-          "id": 26,
-          "title": "网易云课堂",
-          "url": "https://study.163.com",
-          "description": "网易旗下的在线学习平台",
-          "icon": "https://study.163.com/favicon.ico"
-        },
-        {
-          "id": 27,
-          "title": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "大量技术教程和学习视频",
-          "icon": "https://www.bilibili.com/favicon.ico"
-        },
-        {
-          "id": 28,
-          "title": "LeetCode",
-          "url": "https://leetcode.com",
-          "description": "算法练习平台",
-          "icon": "https://leetcode.com/favicon.ico"
-        },
-        {
-          "id": 29,
-          "title": "牛客网",
-          "url": "https://www.nowcoder.com",
-          "description": "IT笔试面试题库",
-          "icon": "https://www.nowcoder.com/favicon.ico"
-        },
-        {
-          "id": 30,
-          "title": "慕课网",
-          "url": "https://www.imooc.com",
-          "description": "IT技能学习平台",
-          "icon": "https://www.imooc.com/favicon.ico"
-        },
-        {
-          "id": 31,
-          "title": "实验楼",
-          "url": "https://www.shiyanlou.com",
-          "description": "在线编程实验平台",
-          "icon": "https://www.shiyanlou.com/favicon.ico"
-        },
-        {
-          "id": 32,
-          "title": "知网",
-          "url": "https://www.cnki.net",
-          "description": "中国知网学术资源平台",
-          "icon": "https://www.cnki.net/favicon.ico"
-        },
-        {
-          "id": 33,
-          "title": "Google Scholar",
-          "url": "https://scholar.google.com",
-          "description": "谷歌学术搜索",
-          "icon": "https://scholar.google.com/favicon.ico"
-        },
-        {
-          "id": 34,
-          "title": "网易有道词典",
-          "url": "https://dict.youdao.com",
-          "description": "在线词典和翻译工具",
-          "icon": "https://dict.youdao.com/favicon.ico"
-        },
-        {
-          "id": 35,
-          "title": "万方数据",
-          "url": "https://www.wanfangdata.com.cn",
-          "description": "学术期刊和论文数据库",
-          "icon": "https://www.wanfangdata.com.cn/favicon.ico"
-        },
-        {
-          "id": 36,
-          "title": "维普网",
-          "url": "http://www.cqvip.com",
-          "description": "中文科技期刊数据库",
-          "icon": "http://www.cqvip.com/favicon.ico"
-        },
-        {
-          "id": 37,
-          "title": "我要自学网",
-          "url": "https://www.51zxw.net",
-          "description": "计算机技能自学平台",
-          "icon": "https://www.51zxw.net/favicon.ico"
-        },
-        {
-          "id": 38,
-          "title": "极客时间",
-          "url": "https://time.geekbang.org",
-          "description": "技术知识服务平台",
-          "icon": "https://time.geekbang.org/favicon.ico"
-        },
-        {
-          "id": 39,
-          "title": "CSDN学院",
-          "url": "https://edu.csdn.net",
-          "description": "CSDN旗下在线教育平台",
-          "icon": "https://edu.csdn.net/favicon.ico"
-        },
-        {
-          "id": 40,
-          "title": "51CTO学院",
-          "url": "https://edu.51cto.com",
-          "description": "IT技术培训平台",
-          "icon": "https://edu.51cto.com/favicon.ico"
-        },
-        {
-          "id": 41,
-          "title": "Codeforces",
-          "url": "https://codeforces.com",
-          "description": "算法竞赛平台",
-          "icon": "https://codeforces.com/favicon.ico"
-        },
-        {
-          "id": 42,
-          "title": "PAT",
-          "url": "https://pintia.cn",
-          "description": "程序设计能力测试平台",
-          "icon": "https://pintia.cn/favicon.ico"
-        },
-        {
-          "id": 43,
-          "title": "Khan Academy",
-          "url": "https://www.khanacademy.org",
-          "description": "免费在线教育平台",
-          "icon": "https://www.khanacademy.org/favicon.ico"
-        },
-        {
-          "id": 44,
-          "title": "智慧树",
-          "url": "https://www.zhihuishu.com",
-          "description": "在线教育平台",
-          "icon": "https://www.zhihuishu.com/favicon.ico"
-        },
-        {
-          "id": 45,
-          "title": "超星尔雅",
-          "url": "http://erya.mooc.chaoxing.com",
-          "description": "在线学习平台",
-          "icon": "http://erya.mooc.chaoxing.com/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "文档与开发工具",
-      "icon": "🛠️",
-      "bookmarks": [
-        {
-          "id": 46,
-          "title": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发者文档权威来源",
-          "icon": "https://developer.mozilla.org/favicon.ico"
-        },
-        {
-          "id": 47,
-          "title": "W3Schools",
-          "url": "https://www.w3schools.com",
-          "description": "Web技术教程和参考",
-          "icon": "https://www.w3schools.com/favicon.ico"
-        },
-        {
-          "id": 48,
-          "title": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "中文编程技术教程",
-          "icon": "https://www.runoob.com/favicon.ico"
-        },
-        {
-          "id": 49,
-          "title": "GitHub Docs",
-          "url": "https://docs.github.com",
-          "description": "GitHub官方文档",
-          "icon": "https://docs.github.com/favicon.ico"
-        },
-        {
-          "id": 50,
-          "title": "Docker Docs",
-          "url": "https://docs.docker.com",
-          "description": "Docker官方文档",
-          "icon": "https://docs.docker.com/favicon.ico"
-        },
-        {
-          "id": 51,
-          "title": "Kubernetes Docs",
-          "url": "https://kubernetes.io/docs",
-          "description": "Kubernetes官方文档",
-          "icon": "https://kubernetes.io/favicon.ico"
-        },
-        {
-          "id": 52,
-          "title": "Replit",
-          "url": "https://replit.com",
-          "description": "在线代码编辑和运行环境",
-          "icon": "https://replit.com/favicon.ico"
-        },
-        {
-          "id": 53,
-          "title": "CodePen",
-          "url": "https://codepen.io",
-          "description": "前端代码在线编辑和分享",
-          "icon": "https://codepen.io/favicon.ico"
-        },
-        {
-          "id": 54,
-          "title": "JSFiddle",
-          "url": "https://jsfiddle.net",
-          "description": "JavaScript在线测试工具",
-          "icon": "https://jsfiddle.net/favicon.ico"
-        },
-        {
-          "id": 55,
-          "title": "Trello",
-          "url": "https://trello.com",
-          "description": "看板式项目管理工具",
-          "icon": "https://trello.com/favicon.ico"
-        },
-        {
-          "id": 56,
-          "title": "Notion",
-          "url": "https://www.notion.so",
-          "description": "一体化工作空间和知识管理工具",
-          "icon": "https://www.notion.so/favicon.ico"
-        },
-        {
-          "id": 57,
-          "title": "Google Translate",
-          "url": "https://translate.google.com",
-          "description": "谷歌翻译",
-          "icon": "https://translate.google.com/favicon.ico"
-        },
-        {
-          "id": 58,
-          "title": "腾讯云开发者社区",
-          "url": "https://cloud.tencent.com/developer",
-          "description": "腾讯云技术文档和教程",
-          "icon": "https://cloud.tencent.com/favicon.ico"
-        },
-        {
-          "id": 59,
-          "title": "GitLab Docs",
-          "url": "https://docs.gitlab.com",
-          "description": "GitLab官方文档",
-          "icon": "https://docs.gitlab.com/favicon.ico"
-        },
-        {
-          "id": 60,
-          "title": "Jira",
-          "url": "https://www.atlassian.com/software/jira",
-          "description": "专业的项目管理工具",
-          "icon": "https://www.atlassian.com/favicon.ico"
-        },
-        {
-          "id": 61,
-          "title": "Asana",
-          "url": "https://asana.com",
-          "description": "团队协作和项目管理工具",
-          "icon": "https://asana.com/favicon.ico"
-        },
-        {
-          "id": 62,
-          "title": "StackBlitz",
-          "url": "https://stackblitz.com",
-          "description": "基于浏览器的云端开发环境",
-          "icon": "https://stackblitz.com/favicon.ico"
-        },
-        {
-          "id": 63,
-          "title": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "微软开源代码编辑器",
-          "icon": "https://code.visualstudio.com/favicon.ico"
-        },
-        {
-          "id": 64,
-          "title": "Sublime Text",
-          "url": "https://www.sublimetext.com",
-          "description": "代码编辑器",
-          "icon": "https://www.sublimetext.com/favicon.ico"
-        },
-        {
-          "id": 65,
-          "title": "Notepad++",
-          "url": "https://notepad-plus-plus.org",
-          "description": "文本编辑器",
-          "icon": "https://notepad-plus-plus.org/favicon.ico"
-        },
-        {
-          "id": 66,
-          "title": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "https://www.postman.com/favicon.ico"
-        },
-        {
-          "id": 67,
-          "title": "Navicat",
-          "url": "https://www.navicat.com.cn",
-          "description": "数据库管理工具",
-          "icon": "https://www.navicat.com.cn/favicon.ico"
-        },
-        {
-          "id": 68,
-          "title": "JSON格式化",
-          "url": "https://www.json.cn",
-          "description": "JSON在线格式化工具",
-          "icon": "https://www.json.cn/favicon.ico"
-        },
-        {
-          "id": 69,
-          "title": "正则表达式测试",
-          "url": "https://regex101.com",
-          "description": "正则表达式在线测试工具",
-          "icon": "https://regex101.com/favicon.ico"
-        },
-        {
-          "id": 70,
-          "title": "Apifox",
-          "url": "https://apifox.cn",
-          "description": "API测试工具",
-          "icon": "https://apifox.cn/favicon.ico"
-        },
-        {
-          "id": 71,
-          "title": "OnlineGDB",
-          "url": "https://www.onlinegdb.com",
-          "description": "在线编译器",
-          "icon": "https://www.onlinegdb.com/favicon.ico"
-        }
-      ]
-    },
-    {
       "id": "office",
-      "name": "企业办公与协作",
+      "name": "企业办公",
       "icon": "🏢",
       "bookmarks": [
         {
-          "id": 72,
-          "title": "微信",
-          "url": "https://pc.weixin.qq.com",
-          "description": "微信网页版",
-          "icon": "https://pc.weixin.qq.com/favicon.ico"
-        },
-        {
-          "id": 73,
-          "title": "企业微信",
-          "url": "https://work.weixin.qq.com",
-          "description": "企业微信办公平台",
-          "icon": "https://work.weixin.qq.com/favicon.ico"
-        },
-        {
-          "id": 74,
+          "id": 1,
           "title": "钉钉",
           "url": "https://www.dingtalk.com",
           "description": "企业协作平台",
           "icon": "https://www.dingtalk.com/favicon.ico"
         },
         {
-          "id": 75,
+          "id": 2,
+          "title": "企业微信",
+          "url": "https://work.weixin.qq.com",
+          "description": "企业微信办公平台",
+          "icon": "https://work.weixin.qq.com/favicon.ico"
+        },
+        {
+          "id": 3,
           "title": "飞书",
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "https://www.feishu.cn/favicon.ico"
         },
         {
-          "id": 76,
-          "title": "QQ邮箱",
-          "url": "https://mail.qq.com",
-          "description": "QQ邮箱",
-          "icon": "https://mail.qq.com/favicon.ico"
-        },
-        {
-          "id": 77,
-          "title": "163邮箱",
-          "url": "https://mail.163.com",
-          "description": "网易邮箱",
-          "icon": "https://mail.163.com/favicon.ico"
-        },
-        {
-          "id": 78,
+          "id": 4,
           "title": "阿里企业邮",
           "url": "https://www.ali-exmail.cn/Land",
           "description": "阿里企业邮箱",
           "icon": "https://www.ali-exmail.cn/favicon.ico"
         },
         {
-          "id": 79,
+          "id": 5,
           "title": "163企业邮",
           "url": "https://qy.163.com/static/login",
           "description": "网易企业邮箱",
           "icon": "https://qy.163.com/favicon.ico"
         },
         {
-          "id": 80,
-          "title": "WPS Office",
-          "url": "https://www.wps.cn",
-          "description": "办公软件",
-          "icon": "https://www.wps.cn/favicon.ico"
-        },
-        {
-          "id": 81,
+          "id": 6,
           "title": "PDFgear",
           "url": "https://www.pdfgear.com/zh/",
           "description": "PDF工具",
           "icon": "https://www.pdfgear.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "opensource",
+      "name": "开源社区",
+      "icon": "📁",
+      "bookmarks": [
+        {
+          "id": 7,
+          "title": "GitHub",
+          "url": "https://github.com",
+          "description": "全球最大的开源代码托管平台",
+          "icon": "https://github.githubassets.com/favicons/favicon.svg"
         },
         {
-          "id": 82,
-          "title": "剪映-网页版",
-          "url": "https://www.jianying.com/editor",
-          "description": "视频剪辑工具",
-          "icon": "https://www.jianying.com/favicon.ico"
+          "id": 8,
+          "title": "GitLab",
+          "url": "https://gitlab.com",
+          "description": "支持私有化部署的代码托管平台",
+          "icon": "https://gitlab.com/favicon.ico"
         },
         {
-          "id": 83,
-          "title": "石墨文档",
-          "url": "https://shimo.im",
-          "description": "在线文档协作",
-          "icon": "https://shimo.im/favicon.ico"
+          "id": 9,
+          "title": "Gitee",
+          "url": "https://gitee.com",
+          "description": "国内领先的代码托管平台",
+          "icon": "https://gitee.com/favicon.ico"
         },
         {
-          "id": 84,
-          "title": "腾讯文档",
-          "url": "https://docs.qq.com",
-          "description": "在线文档协作",
-          "icon": "https://docs.qq.com/favicon.ico"
+          "id": 10,
+          "title": "开源中国",
+          "url": "https://www.oschina.net",
+          "description": "国内最大的开源技术社区",
+          "icon": "https://www.oschina.net/favicon.ico"
         },
         {
-          "id": 85,
-          "title": "Teambition",
-          "url": "https://www.teambition.com",
-          "description": "项目管理工具",
-          "icon": "https://www.teambition.com/favicon.ico"
+          "id": 11,
+          "title": "Linux内核",
+          "url": "https://www.kernel.org",
+          "description": "Linux内核官方发布网站",
+          "icon": "https://www.kernel.org/favicon.ico"
         },
         {
-          "id": 86,
-          "title": "阿里云盘",
-          "url": "https://www.aliyundrive.com",
-          "description": "云存储服务",
-          "icon": "https://www.aliyundrive.com/favicon.ico"
-        },
-        {
-          "id": 87,
-          "title": "百度网盘",
-          "url": "https://pan.baidu.com",
-          "description": "云存储服务",
-          "icon": "https://pan.baidu.com/favicon.ico"
-        },
-        {
-          "id": 88,
-          "title": "腾讯微云",
-          "url": "https://www.weiyun.com",
-          "description": "云存储服务",
-          "icon": "https://www.weiyun.com/favicon.ico"
-        },
-        {
-          "id": 89,
-          "title": "坚果云",
-          "url": "https://www.jianguoyun.com",
-          "description": "云存储服务",
-          "icon": "https://www.jianguoyun.com/favicon.ico"
+          "id": 12,
+          "title": "Cloudflare",
+          "url": "https://www.cloudflare-cn.com",
+          "description": "CDN和网络安全服务",
+          "icon": "https://www.cloudflare.com/favicon.ico"
         }
       ]
     },
@@ -664,56 +104,56 @@
       "icon": "🔄",
       "bookmarks": [
         {
-          "id": 90,
+          "id": 13,
           "title": "清华大学开源镜像站",
           "url": "https://mirrors.tuna.tsinghua.edu.cn",
           "description": "清华大学开源镜像站",
           "icon": "https://mirrors.tuna.tsinghua.edu.cn/favicon.ico"
         },
         {
-          "id": 91,
+          "id": 14,
           "title": "阿里云开源镜像站",
           "url": "https://developer.aliyun.com/mirror",
           "description": "阿里云开源镜像站",
           "icon": "https://developer.aliyun.com/favicon.ico"
         },
         {
-          "id": 92,
+          "id": 15,
           "title": "网易开源镜像站",
           "url": "https://mirrors.163.com",
           "description": "网易开源镜像站",
           "icon": "https://mirrors.163.com/favicon.ico"
         },
         {
-          "id": 93,
+          "id": 16,
           "title": "华为云镜像站",
           "url": "https://mirrors.huaweicloud.com",
           "description": "华为云镜像站",
           "icon": "https://mirrors.huaweicloud.com/favicon.ico"
         },
         {
-          "id": 94,
+          "id": 17,
           "title": "腾讯软件源",
           "url": "https://mirrors.cloud.tencent.com",
           "description": "腾讯软件源",
           "icon": "https://mirrors.cloud.tencent.com/favicon.ico"
         },
         {
-          "id": 95,
+          "id": 18,
           "title": "中国科学技术大学镜像站",
           "url": "https://mirrors.ustc.edu.cn",
           "description": "中科大镜像站",
           "icon": "https://mirrors.ustc.edu.cn/favicon.ico"
         },
         {
-          "id": 96,
+          "id": 19,
           "title": "北京大学开源镜像站",
           "url": "https://mirrors.pku.edu.cn",
           "description": "北京大学镜像站",
           "icon": "https://mirrors.pku.edu.cn/favicon.ico"
         },
         {
-          "id": 97,
+          "id": 20,
           "title": "上海交通大学镜像站",
           "url": "http://ftp.sjtu.edu.cn",
           "description": "上海交大镜像站",
@@ -722,443 +162,387 @@
       ]
     },
     {
-      "id": "cloud",
-      "name": "云服务与CDN",
-      "icon": "☁️",
+      "id": "community",
+      "name": "技术社区",
+      "icon": "💬",
       "bookmarks": [
         {
-          "id": 98,
-          "title": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里云",
-          "icon": "https://www.aliyun.com/favicon.ico"
+          "id": 21,
+          "title": "掘金",
+          "url": "https://juejin.cn",
+          "description": "高质量技术社区",
+          "icon": "https://juejin.cn/favicon.ico"
         },
         {
-          "id": 99,
-          "title": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云",
-          "icon": "https://www.huaweicloud.com/favicon.ico"
+          "id": 22,
+          "title": "51CTO",
+          "url": "https://www.51cto.com",
+          "description": "专注于IT人职业成长平台",
+          "icon": "https://www.51cto.com/favicon.ico"
         },
         {
-          "id": 100,
-          "title": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云",
+          "id": 23,
+          "title": "CSDN",
+          "url": "https://www.csdn.net",
+          "description": "中国专业IT技术社区",
+          "icon": "https://www.csdn.net/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "learning-general",
+      "name": "学习资源(通用)",
+      "icon": "📚",
+      "bookmarks": [
+        {
+          "id": 24,
+          "title": "大学MOOC",
+          "url": "https://www.icourse163.org",
+          "description": "国家精品在线开放课程平台",
+          "icon": "https://www.icourse163.org/favicon.ico"
+        },
+        {
+          "id": 25,
+          "title": "哔哩哔哩",
+          "url": "https://www.bilibili.com",
+          "description": "大量技术教程和学习视频",
+          "icon": "https://www.bilibili.com/favicon.ico"
+        },
+        {
+          "id": 26,
+          "title": "我要自学",
+          "url": "https://www.51zxw.net",
+          "description": "计算机技能自学平台",
+          "icon": "https://www.51zxw.net/favicon.ico"
+        },
+        {
+          "id": 27,
+          "title": "智慧树",
+          "url": "https://www.zhihuishu.com",
+          "description": "在线教育平台",
+          "icon": "https://www.zhihuishu.com/favicon.ico"
+        },
+        {
+          "id": 28,
+          "title": "终身教育平台",
+          "url": "https://le.ouchn.cn/home",
+          "description": "终身教育平台",
+          "icon": "https://le.ouchn.cn/favicon.ico"
+        },
+        {
+          "id": 29,
+          "title": "国家中小学智慧教育平台",
+          "url": "https://basic.smartedu.cn",
+          "description": "国家中小学智慧教育平台",
+          "icon": "https://basic.smartedu.cn/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "learning-vendor",
+      "name": "学习资源(厂商)",
+      "icon": "🎓",
+      "bookmarks": [
+        {
+          "id": 30,
+          "title": "华为人才在线",
+          "url": "https://e.huawei.com/cn/talent/portal",
+          "description": "华为人才在线",
+          "icon": "https://e.huawei.com/favicon.ico"
+        },
+        {
+          "id": 31,
+          "title": "阿里云认证",
+          "url": "https://edu.aliyun.com",
+          "description": "阿里云认证",
+          "icon": "https://edu.aliyun.com/favicon.ico"
+        },
+        {
+          "id": 32,
+          "title": "腾讯云学堂",
+          "url": "https://cloud.tencent.com/edu/learning",
+          "description": "腾讯云学堂",
           "icon": "https://cloud.tencent.com/favicon.ico"
         },
         {
-          "id": 101,
-          "title": "百度智能云",
-          "url": "https://cloud.baidu.com",
-          "description": "百度智能云",
+          "id": 33,
+          "title": "百度云智学院",
+          "url": "https://abcxueyuan.baidu.com",
+          "description": "百度云智学院",
+          "icon": "https://abcxueyuan.baidu.com/favicon.ico"
+        },
+        {
+          "id": 34,
+          "title": "百度智能云培训",
+          "url": "https://cloud.baidu.com/product/SDC_VAS/tui.html",
+          "description": "百度智能云培训",
           "icon": "https://cloud.baidu.com/favicon.ico"
         },
         {
-          "id": 102,
-          "title": "金山云",
-          "url": "https://www.ksyun.com",
-          "description": "金山云",
-          "icon": "https://www.ksyun.com/favicon.ico"
+          "id": 35,
+          "title": "天翼云学堂",
+          "url": "https://edu.ctyun.cn",
+          "description": "天翼云学堂",
+          "icon": "https://edu.ctyun.cn/favicon.ico"
         },
         {
-          "id": 103,
-          "title": "青云QingCloud",
-          "url": "https://www.qingcloud.com",
-          "description": "青云",
-          "icon": "https://www.qingcloud.com/favicon.ico"
+          "id": 36,
+          "title": "深信服社区",
+          "url": "https://bbs.sangfor.com.cn",
+          "description": "深信服社区",
+          "icon": "https://bbs.sangfor.com.cn/favicon.ico"
         },
         {
-          "id": 104,
-          "title": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "CDN和网络安全服务",
-          "icon": "https://www.cloudflare.com/favicon.ico"
-        },
-        {
-          "id": 105,
-          "title": "jsDelivr",
-          "url": "https://www.jsdelivr.com",
-          "description": "开源CDN",
-          "icon": "https://www.jsdelivr.com/favicon.ico"
-        },
-        {
-          "id": 106,
-          "title": "UNPKG",
-          "url": "https://unpkg.com",
-          "description": "npm CDN",
-          "icon": "https://unpkg.com/favicon.ico"
-        },
-        {
-          "id": 107,
-          "title": "百度云加速",
-          "url": "https://su.baidu.com",
-          "description": "百度云加速",
-          "icon": "https://su.baidu.com/favicon.ico"
-        },
-        {
-          "id": 108,
-          "title": "GitHub Pages",
-          "url": "https://pages.github.com",
-          "description": "静态网站托管",
-          "icon": "https://pages.github.com/favicon.ico"
-        },
-        {
-          "id": 109,
-          "title": "Netlify",
-          "url": "https://www.netlify.com",
-          "description": "静态网站托管",
-          "icon": "https://www.netlify.com/favicon.ico"
-        },
-        {
-          "id": 110,
-          "title": "Vercel",
-          "url": "https://vercel.com",
-          "description": "静态网站托管",
-          "icon": "https://vercel.com/favicon.ico"
-        },
-        {
-          "id": 111,
-          "title": "Let's Encrypt",
-          "url": "https://letsencrypt.org",
-          "description": "免费SSL证书",
-          "icon": "https://letsencrypt.org/favicon.ico"
+          "id": 37,
+          "title": "新华三大学",
+          "url": "https://learning.h3c.com/volbeacon/login/login.do",
+          "description": "新华三大学",
+          "icon": "https://learning.h3c.com/favicon.ico"
         }
       ]
     },
     {
       "id": "exams",
-      "name": "报名考证",
+      "name": "考试认证",
       "icon": "📝",
       "bookmarks": [
         {
-          "id": 112,
-          "title": "中国人事考试网",
-          "url": "http://www.cpta.com.cn",
-          "description": "人事考试",
-          "icon": "http://www.cpta.com.cn/favicon.ico"
+          "id": 38,
+          "title": "K8S",
+          "url": "https://training.linuxfoundation.cn",
+          "description": "Kubernetes认证培训",
+          "icon": "https://training.linuxfoundation.cn/favicon.ico"
         },
         {
-          "id": 113,
-          "title": "学信网",
-          "url": "https://www.chsi.com.cn",
-          "description": "学籍查询",
-          "icon": "https://www.chsi.com.cn/favicon.ico"
-        },
-        {
-          "id": 114,
+          "id": 39,
           "title": "中国教育考试网",
-          "url": "http://www.neea.edu.cn",
-          "description": "教育考试",
-          "icon": "http://www.neea.edu.cn/favicon.ico"
+          "url": "https://www.neea.edu.cn/",
+          "description": "中国教育考试网",
+          "icon": "https://www.neea.edu.cn/favicon.ico"
         },
         {
-          "id": 115,
-          "title": "国家职业资格工作网",
-          "url": "http://www.osta.org.cn",
-          "description": "职业资格",
-          "icon": "http://www.osta.org.cn/favicon.ico"
+          "id": 40,
+          "title": "Pearson VUE 门户",
+          "url": "https://www.pearsonvue.com/cn/zh/test-takers/onvue-online-proctoring.html",
+          "description": "Pearson VUE考试中心",
+          "icon": "https://www.pearsonvue.com/favicon.ico"
         },
         {
-          "id": 116,
-          "title": "软考网",
-          "url": "https://www.ruankao.org.cn",
-          "description": "软件考试",
-          "icon": "https://www.ruankao.org.cn/favicon.ico"
+          "id": 41,
+          "title": "软考",
+          "url": "https://bm.ruankao.org.cn/sign/welcome",
+          "description": "计算机技术与软件专业技术资格考试",
+          "icon": "https://bm.ruankao.org.cn/favicon.ico"
         },
         {
-          "id": 117,
-          "title": "教师资格证考试",
-          "url": "http://ntce.neea.edu.cn",
-          "description": "教师资格证",
-          "icon": "http://ntce.neea.edu.cn/favicon.ico"
+          "id": 42,
+          "title": "国开",
+          "url": "https://www.ouchn.edu.cn/",
+          "description": "国家开放大学",
+          "icon": "https://www.ouchn.edu.cn/favicon.ico"
         },
         {
-          "id": 118,
-          "title": "会计资格评价网",
-          "url": "http://kzp.mof.gov.cn",
-          "description": "会计考试",
-          "icon": "http://kzp.mof.gov.cn/favicon.ico"
+          "id": 43,
+          "title": "交管12123",
+          "url": "https://www.122.gov.cn/m/index/",
+          "description": "交通安全综合服务管理平台",
+          "icon": "https://www.122.gov.cn/favicon.ico"
         }
       ]
     },
     {
-      "id": "delivery",
-      "name": "快递查询",
-      "icon": "📦",
+      "id": "docs",
+      "name": "文档与教程",
+      "icon": "🛠️",
       "bookmarks": [
         {
-          "id": 119,
-          "title": "快递100",
-          "url": "https://www.kuaidi100.com",
-          "description": "快递查询",
-          "icon": "https://www.kuaidi100.com/favicon.ico"
+          "id": 44,
+          "title": "菜鸟教程",
+          "url": "https://www.runoob.com",
+          "description": "中文编程技术教程",
+          "icon": "https://www.runoob.com/favicon.ico"
         },
         {
-          "id": 120,
-          "title": "菜鸟裹裹",
-          "url": "https://www.cainiao.com",
-          "description": "快递查询",
-          "icon": "https://www.cainiao.com/favicon.ico"
+          "id": 45,
+          "title": "Kubernetes Docs",
+          "url": "https://kubernetes.io/docs",
+          "description": "Kubernetes官方文档",
+          "icon": "https://kubernetes.io/favicon.ico"
         },
         {
-          "id": 121,
-          "title": "快递之家",
-          "url": "http://www.kuaidizhijia.com",
-          "description": "快递查询",
-          "icon": "http://www.kuaidizhijia.com/favicon.ico"
+          "id": 46,
+          "title": "Windows命令大全",
+          "url": "https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands",
+          "description": "Windows命令大全",
+          "icon": "https://learn.microsoft.com/favicon.ico"
         },
         {
-          "id": 122,
-          "title": "11183快递查询",
-          "url": "https://www.11183.com.cn",
-          "description": "EMS查询",
-          "icon": "https://www.11183.com.cn/favicon.ico"
+          "id": 47,
+          "title": "Windows-KMS密钥",
+          "url": "https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys?tabs=windows1110ltsc%2Cwindows81%2Cserver2025%2Cversion1803",
+          "description": "Windows KMS客户端激活密钥",
+          "icon": "https://learn.microsoft.com/favicon.ico"
         }
       ]
     },
     {
-      "id": "downloads",
-      "name": "系统下载",
+      "id": "jobs",
+      "name": "面试-招聘",
+      "icon": "💼",
+      "bookmarks": [
+        {
+          "id": 48,
+          "title": "牛客网",
+          "url": "https://www.nowcoder.com/",
+          "description": "IT笔试面试题库",
+          "icon": "https://www.nowcoder.com/favicon.ico"
+        },
+        {
+          "id": 49,
+          "title": "BOSS直聘",
+          "url": "https://www.zhipin.com",
+          "description": "BOSS直聘招聘平台",
+          "icon": "https://www.zhipin.com/favicon.ico"
+        },
+        {
+          "id": 50,
+          "title": "智联招聘",
+          "url": "https://www.zhaopin.com/",
+          "description": "智联招聘",
+          "icon": "https://www.zhaopin.com/favicon.ico"
+        },
+        {
+          "id": 51,
+          "title": "前程无忧",
+          "url": "https://51job.com/",
+          "description": "前程无忧招聘网",
+          "icon": "https://www.51job.com/favicon.ico"
+        },
+        {
+          "id": 52,
+          "title": "国聘",
+          "url": "https://www.iguopin.com/",
+          "description": "国聘招聘平台",
+          "icon": "https://www.iguopin.com/favicon.ico"
+        },
+        {
+          "id": 53,
+          "title": "考公",
+          "url": "https://zg.cpta.com.cn/examfront/login/initLogin.html",
+          "description": "公务员考试报名",
+          "icon": "https://zg.cpta.com.cn/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "system-install",
+      "name": "系统安装",
       "icon": "💾",
       "bookmarks": [
         {
-          "id": 123,
-          "title": "MSDN",
-          "url": "https://next.itellyou.cn",
-          "description": "系统下载",
-          "icon": "https://next.itellyou.cn/favicon.ico"
-        },
-        {
-          "id": 124,
-          "title": "Windows官方",
-          "url": "https://www.microsoft.com/zh-cn/software-download",
-          "description": "Windows下载",
+          "id": 54,
+          "title": "Windows下载",
+          "url": "https://www.microsoft.com/zh-cn/software-download/",
+          "description": "Windows官方下载",
           "icon": "https://www.microsoft.com/favicon.ico"
         },
         {
-          "id": 125,
+          "id": 55,
+          "title": "MSDN",
+          "url": "https://msdn.itellyou.cn/",
+          "description": "MSDN系统下载",
+          "icon": "https://msdn.itellyou.cn/favicon.ico"
+        },
+        {
+          "id": 56,
+          "title": "Debian",
+          "url": "https://www.debian.org/distrib/",
+          "description": "Debian操作系统下载",
+          "icon": "https://www.debian.org/favicon.ico"
+        },
+        {
+          "id": 57,
           "title": "Ubuntu",
           "url": "https://ubuntu.com/download",
-          "description": "Ubuntu下载",
+          "description": "Ubuntu操作系统下载",
           "icon": "https://ubuntu.com/favicon.ico"
         },
         {
-          "id": 126,
-          "title": "Node.js",
-          "url": "https://nodejs.org/zh-cn",
-          "description": "Node.js下载",
-          "icon": "https://nodejs.org/favicon.ico"
+          "id": 58,
+          "title": "Rocky",
+          "url": "https://rockylinux.org/zh-CN",
+          "description": "Rocky Linux操作系统",
+          "icon": "https://rockylinux.org/favicon.ico"
         },
         {
-          "id": 127,
-          "title": "Python官方",
-          "url": "https://www.python.org/downloads",
-          "description": "Python下载",
-          "icon": "https://www.python.org/favicon.ico"
+          "id": 59,
+          "title": "Centos",
+          "url": "https://www.centos.org/",
+          "description": "CentOS操作系统",
+          "icon": "https://www.centos.org/favicon.ico"
         },
         {
-          "id": 128,
-          "title": "Deepin",
-          "url": "https://www.deepin.org",
-          "description": "深度系统",
-          "icon": "https://www.deepin.org/favicon.ico"
+          "id": 60,
+          "title": "微PE",
+          "url": "https://www.wepe.com.cn/download.html",
+          "description": "微PE工具箱",
+          "icon": "https://www.wepe.com.cn/favicon.ico"
+        },
+        {
+          "id": 61,
+          "title": "在线重装",
+          "url": "https://firpe.cn/page-196",
+          "description": "在线系统重装",
+          "icon": "https://firpe.cn/favicon.ico"
         }
       ]
     },
     {
       "id": "movies",
-      "name": "综合影视类网站",
+      "name": "影视娱乐",
       "icon": "🎬",
       "bookmarks": [
         {
-          "id": 135,
-          "title": "低端影视",
-          "url": "https://ddys.la",
-          "description": "无广告极简设计，支持4K播放",
-          "icon": "https://ddys.la/favicon.ico"
-        },
-        {
-          "id": 136,
-          "title": "茶杯狐",
-          "url": "https://hcupfox.com/",
-          "description": "影视资源聚合搜索引擎",
-          "icon": "https://www.cupfox.com/favicon.ico"
-        },
-        {
-          "id": 137,
-          "title": "奈飞工厂",
-          "url": "https://netflixgc.com",
-          "description": "同步Netflix资源",
-          "icon": "https://netflixgc.com/favicon.ico"
-        },
-        {
-          "id": 138,
+          "id": 62,
           "title": "片库",
-          "url": "https://www.mypianku.net",
-          "description": "多线路切换",
-          "icon": "https://www.mypianku.net/favicon.ico"
+          "url": "https://www.qwnull.com/",
+          "description": "影视资源网站",
+          "icon": "https://www.qwnull.com/favicon.ico"
         },
         {
-          "id": 139,
-          "title": "独播库",
-          "url": "https://www.duboku.tv",
-          "description": "更新快、解析快",
-          "icon": "https://www.duboku.tv/favicon.ico"
-        },
-        {
-          "id": 140,
-          "title": "555电影网",
-          "url": "https://www.o8tv.com",
-          "description": "支持弹幕，有APP",
-          "icon": "https://www.o8tv.com/favicon.ico"
-        },
-        {
-          "id": 141,
-          "title": "电影天堂",
-          "url": "https://www.dytt8.net",
-          "description": "老牌资源站",
-          "icon": "https://www.dytt8.net/favicon.ico"
-        },
-        {
-          "id": 142,
-          "title": "蜜蜂视频",
-          "url": "https://www.bfzy.tv",
-          "description": "高清资源丰富",
-          "icon": "https://www.bfzy.tv/favicon.ico"
-        },
-        {
-          "id": 143,
-          "title": "在线之家",
-          "url": "https://www.zxzj.me",
-          "description": "主打国外剧资源",
-          "icon": "https://www.zxzj.me/favicon.ico"
-        },
-        {
-          "id": 144,
-          "title": "云播TV",
-          "url": "https://www.yunbotv.com",
-          "description": "界面简洁，支持手机播放",
-          "icon": "https://www.yunbotv.com/favicon.ico"
-        },
-        {
-          "id": 145,
-          "title": "泥巴影院",
-          "url": "https://www.nibayy.com",
-          "description": "资源丰富",
-          "icon": "https://www.nibayy.com/favicon.ico"
-        },
-        {
-          "id": 146,
-          "title": "剧嗨",
-          "url": "https://www.juhi.cc",
-          "description": "页面简洁",
-          "icon": "https://www.juhi.cc/favicon.ico"
-        },
-        {
-          "id": 147,
-          "title": "电影蜜蜂",
-          "url": "https://www.dybee.tv",
-          "description": "电影资源为主",
-          "icon": "https://www.dybee.tv/favicon.ico"
-        },
-        {
-          "id": 148,
-          "title": "奈飞中文",
-          "url": "https://yanetflix.com",
-          "description": "支持倍速播放和弹幕",
-          "icon": "https://yanetflix.com/favicon.ico"
-        },
-        {
-          "id": 149,
-          "title": "掘金影视",
-          "url": "https://denver8.com",
-          "description": "宝藏网站",
-          "icon": "https://denver8.com/favicon.ico"
-        },
-        {
-          "id": 150,
-          "title": "天天追剧",
-          "url": "https://www.tiantianzhuiju.com",
-          "description": "日更30+热剧",
-          "icon": "https://www.tiantianzhuiju.com/favicon.ico"
-        },
-        {
-          "id": 151,
-          "title": "秀儿影视",
-          "url": "https://www.xiuerying.com",
-          "description": "豆瓣高分专区",
-          "icon": "https://www.xiuerying.com/favicon.ico"
-        },
-        {
-          "id": 152,
-          "title": "看剧吧",
-          "url": "https://www.k剧8.com",
-          "description": "资源全、线路多",
-          "icon": "https://www.k剧8.com/favicon.ico"
-        },
-        {
-          "id": 153,
+          "id": 63,
           "title": "追剧也很卷",
-          "url": "https://https://www.freeok.ooo/",
-          "description": "追剧",
-          "icon": "https://p0.meituan.net/csc/587ed7fed11f9ddc99531ce53a0065964745.png"
+          "url": "https://www.freeok.one/",
+          "description": "追剧资源网站",
+          "icon": "https://www.freeok.one/favicon.ico"
         },
         {
-          "id": 154,
-          "title": "爱生活电影网",
-          "url": "https://www.hldmw.com/",
-          "description": "其他",
-          "icon": "https://www.tekanwang.com/favicon.ico"
-        }
-      ]
-    },
-    {
-      "id": "other",
-      "name": "其他服务",
-      "icon": "🌟",
-      "bookmarks": [
-        {
-          "id": 129,
-          "title": "Imgur",
-          "url": "https://imgur.com",
-          "description": "图片托管",
-          "icon": "https://imgur.com/favicon.ico"
+          "id": 64,
+          "title": "电影先生",
+          "url": "https://www.zgcwt.com/",
+          "description": "电影资源网站",
+          "icon": "https://www.zgcwt.com/favicon.ico"
         },
         {
-          "id": 130,
-          "title": "Pastebin",
-          "url": "https://pastebin.com",
-          "description": "文本分享",
-          "icon": "https://pastebin.com/favicon.ico"
+          "id": 65,
+          "title": "樱花动漫",
+          "url": "https://yhhu.cc/",
+          "description": "樱花动漫",
+          "icon": "https://yhhu.cc/favicon.ico"
         },
         {
-          "id": 131,
-          "title": "Project Gutenberg",
-          "url": "https://www.gutenberg.org",
-          "description": "免费电子书",
-          "icon": "https://www.gutenberg.org/favicon.ico"
+          "id": 66,
+          "title": "茶杯狐",
+          "url": "https://www.ncupfox.com/",
+          "description": "茶杯狐影视搜索",
+          "icon": "https://www.ncupfox.com/favicon.ico"
         },
         {
-          "id": 132,
-          "title": "维基百科",
-          "url": "https://www.wikipedia.org",
-          "description": "百科全书",
-          "icon": "https://www.wikipedia.org/favicon.ico"
-        },
-        {
-          "id": 133,
-          "title": "Mozilla Firefox",
-          "url": "https://www.mozilla.org/firefox",
-          "description": "浏览器",
-          "icon": "https://www.mozilla.org/favicon.ico"
-        },
-        {
-          "id": 134,
-          "title": "Thunderbird",
-          "url": "https://www.thunderbird.net",
-          "description": "邮件客户端",
-          "icon": "https://www.thunderbird.net/favicon.ico"
+          "id": 67,
+          "title": "星火4K",
+          "url": "https://www.spark4k.cn/",
+          "description": "4K影视资源",
+          "icon": "https://www.spark4k.cn/favicon.ico"
         }
       ]
     }
