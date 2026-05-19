@@ -10,7 +10,7 @@
           "title": "钉钉",
           "url": "https://www.dingtalk.com",
           "description": "企业协作平台",
-          "icon": "https://www.dingtalk.com/favicon.ico"
+          "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01aO6AGb22CWoZK2OtP_!!6000000007084-2-tps-519-96.png"
         },
         {
           "id": 2,
@@ -45,7 +45,7 @@
           "title": "PDFgear",
           "url": "https://www.pdfgear.com/zh/",
           "description": "PDF工具",
-          "icon": "https://www.pdfgear.com/favicon.ico"
+          "icon": "https://www.pdfgear.com/img/common/icon.svg"
         }
       ]
     },
@@ -87,14 +87,14 @@
           "title": "Linux内核",
           "url": "https://www.kernel.org",
           "description": "Linux内核官方发布网站",
-          "icon": "https://www.kernel.org/favicon.ico"
+          "icon": "https://www.kernel.org/theme/images/logos/tux.png"
         },
         {
           "id": 12,
           "title": "Cloudflare",
           "url": "https://www.cloudflare-cn.com",
           "description": "CDN和网络安全服务",
-          "icon": "https://www.cloudflare.com/favicon.ico"
+          "icon": "https://cf-assets.cloudflare-cn.com/dzlvafdwdttg/69wNwfiY5mFmgpd9eQFW6j/d5131c08085a977aa70f19e7aada3fa9/1pixel-down__1_.svg"
         }
       ]
     },
@@ -108,7 +108,7 @@
           "title": "清华大学开源镜像站",
           "url": "https://mirrors.tuna.tsinghua.edu.cn",
           "description": "清华大学开源镜像站",
-          "icon": "https://mirrors.tuna.tsinghua.edu.cn/favicon.ico"
+          "icon": "https://mirrors.tuna.tsinghua.edu.cn/static/img/logo-small-dark.png"
         },
         {
           "id": 14,
@@ -122,42 +122,42 @@
           "title": "网易开源镜像站",
           "url": "https://mirrors.163.com",
           "description": "网易开源镜像站",
-          "icon": "https://mirrors.163.com/favicon.ico"
+          "icon": "https://mimg.127.net/xm/dashi-official-site-pc/static/media/logo.efeafbe2.svg"
         },
         {
           "id": 16,
           "title": "华为云镜像站",
           "url": "https://mirrors.huaweicloud.com",
           "description": "华为云镜像站",
-          "icon": "https://mirrors.huaweicloud.com/favicon.ico"
+          "icon": "https://www.huawei.com/-/media/hcomponent-header/1.0.1.20260424171441/component/img/huawei_logo.png"
         },
         {
           "id": 17,
           "title": "腾讯软件源",
           "url": "https://mirrors.cloud.tencent.com",
           "description": "腾讯软件源",
-          "icon": "https://mirrors.cloud.tencent.com/favicon.ico"
+          "icon": "https://www.tencent.com/img/index/tencent_logo.png"
         },
         {
           "id": 18,
           "title": "中国科学技术大学镜像站",
           "url": "https://mirrors.ustc.edu.cn",
           "description": "中科大镜像站",
-          "icon": "https://mirrors.ustc.edu.cn/favicon.ico"
+          "icon": "https://mirrors.ustc.edu.cn/static/img/favicon.png"
         },
         {
           "id": 19,
           "title": "北京大学开源镜像站",
           "url": "https://mirrors.pku.edu.cn",
           "description": "北京大学镜像站",
-          "icon": "https://mirrors.pku.edu.cn/favicon.ico"
+          "icon": "https://mirrors.pku.edu.cn/static/logo.png"
         },
         {
           "id": 20,
           "title": "上海交通大学镜像站",
           "url": "http://ftp.sjtu.edu.cn",
           "description": "上海交大镜像站",
-          "icon": "http://ftp.sjtu.edu.cn/favicon.ico"
+          "icon": "https://mirrors.sjtug.sjtu.edu.cn/icon.png"
         }
       ]
     },
@@ -199,7 +199,7 @@
           "title": "大学MOOC",
           "url": "https://www.icourse163.org",
           "description": "国家精品在线开放课程平台",
-          "icon": "https://www.icourse163.org/favicon.ico"
+          "icon": "https://edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100"
         },
         {
           "id": 25,
@@ -255,7 +255,7 @@
           "title": "阿里云认证",
           "url": "https://edu.aliyun.com",
           "description": "阿里云认证",
-          "icon": "https://edu.aliyun.com/favicon.ico"
+          "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
         },
         {
           "id": 32,
@@ -269,21 +269,21 @@
           "title": "百度云智学院",
           "url": "https://abcxueyuan.baidu.com",
           "description": "百度云智学院",
-          "icon": "https://abcxueyuan.baidu.com/favicon.ico"
+          "icon": "https://yunzhi-m-web.cdn.bcebos.com/static/img/yunzhi_Logo.ee7dfd8.png"
         },
         {
           "id": 34,
           "title": "百度智能云培训",
           "url": "https://cloud.baidu.com/product/SDC_VAS/tui.html",
           "description": "百度智能云培训",
-          "icon": "https://cloud.baidu.com/favicon.ico"
+          "icon": "https://bce.bdstatic.com/img/newfavicon.ico"
         },
         {
           "id": 35,
           "title": "天翼云学堂",
           "url": "https://edu.ctyun.cn",
           "description": "天翼云学堂",
-          "icon": "https://edu.ctyun.cn/favicon.ico"
+          "icon": "https://edu.ctyun.cn/files/system/2023/04-26/104157513500632382.png?version=8.3.29_7.5.0_1"
         },
         {
           "id": 36,
@@ -297,7 +297,7 @@
           "title": "新华三大学",
           "url": "https://learning.h3c.com/volbeacon/login/login.do",
           "description": "新华三大学",
-          "icon": "https://learning.h3c.com/favicon.ico"
+          "icon": "https://icelearning.h3c.com/volcano2/resource/h3c/image/project/20260304/6e60d357-9ff5-4dd3-8f32-623dab891b22.png"
         }
       ]
     },
@@ -325,7 +325,7 @@
           "title": "Pearson VUE 门户",
           "url": "https://www.pearsonvue.com/cn/zh/test-takers/onvue-online-proctoring.html",
           "description": "Pearson VUE考试中心",
-          "icon": "https://www.pearsonvue.com/favicon.ico"
+          "icon": "https://www.pearsonvue.com/content/dam/VUE/vue/global/images/logo/pearson-professional-assessments-logo-white-v2.svg"
         },
         {
           "id": 41,
@@ -365,9 +365,9 @@
         {
           "id": 45,
           "title": "Kubernetes Docs",
-          "url": "https://kubernetes.io/docs",
+          "url": "https://kubernetes.io/zh-cn/docs/home/",
           "description": "Kubernetes官方文档",
-          "icon": "https://kubernetes.io/favicon.ico"
+          "icon": "https://ts1.tc.mm.bing.net/th/id/ODF.Z1wLDzrJ0qpybOl82TvrCA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2"
         },
         {
           "id": 46,
@@ -409,7 +409,7 @@
           "title": "智联招聘",
           "url": "https://www.zhaopin.com/",
           "description": "智联招聘",
-          "icon": "https://www.zhaopin.com/favicon.ico"
+          "icon": "https://webapp.zhaopin.com/2024/hd/zzgyw0201ZL68537/logo.png"
         },
         {
           "id": 51,
@@ -428,7 +428,7 @@
         {
           "id": 53,
           "title": "考公",
-          "url": "https://zg.cpta.com.cn/examfront/login/initLogin.html",
+          "url": "http://zg.cpta.com.cn/examfront/login/initLogin.htm",
           "description": "公务员考试报名",
           "icon": "https://zg.cpta.com.cn/favicon.ico"
         }
@@ -465,21 +465,21 @@
           "title": "Ubuntu",
           "url": "https://ubuntu.com/download",
           "description": "Ubuntu操作系统下载",
-          "icon": "https://ubuntu.com/favicon.ico"
+          "icon": "https://assets.ubuntu.com/v1/82818827-CoF_white.svg"
         },
         {
           "id": 58,
           "title": "Rocky",
           "url": "https://rockylinux.org/zh-CN",
           "description": "Rocky Linux操作系统",
-          "icon": "https://rockylinux.org/favicon.ico"
+          "icon": "https://ts3.tc.mm.bing.net/th/id/ODF.aRWe3ty5BYeVNSEhKebuwA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2"
         },
         {
           "id": 59,
           "title": "Centos",
           "url": "https://www.centos.org/",
           "description": "CentOS操作系统",
-          "icon": "https://www.centos.org/favicon.ico"
+          "icon": "https://www.centos.org/assets/img/centos-whitelogo.svg"
         },
         {
           "id": 60,
@@ -514,7 +514,7 @@
           "title": "追剧也很卷",
           "url": "https://www.freeok.one/",
           "description": "追剧资源网站",
-          "icon": "https://www.freeok.one/favicon.ico"
+          "icon": "https://p0.meituan.net/csc/587ed7fed11f9ddc99531ce53a0065964745.png"
         },
         {
           "id": 64,
@@ -542,7 +542,7 @@
           "title": "星火4K",
           "url": "https://www.spark4k.cn/",
           "description": "4K影视资源",
-          "icon": "https://www.spark4k.cn/favicon.ico"
+          "icon": "https://www.spark4k.cn/upload/mxcms/20260204-1/11bd3f5f2b11853dd5bccd136c4160d2.png"
         }
       ]
     }
