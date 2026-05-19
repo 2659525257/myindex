@@ -525,20 +525,13 @@
         },
         {
           "id": 65,
-          "title": "樱花动漫",
-          "url": "https://yhhu.cc/",
-          "description": "樱花动漫",
-          "icon": "https://yhhu.cc/favicon.ico"
-        },
-        {
-          "id": 66,
           "title": "茶杯狐",
           "url": "https://www.ncupfox.com/",
           "description": "茶杯狐影视搜索",
           "icon": "https://www.ncupfox.com/favicon.ico"
         },
         {
-          "id": 67,
+          "id": 66,
           "title": "星火4K",
           "url": "https://www.spark4k.cn/",
           "description": "4K影视资源",
