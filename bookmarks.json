@@ -158,6 +158,13 @@
           "url": "http://ftp.sjtu.edu.cn",
           "description": "上海交大镜像站",
           "icon": "https://mirrors.sjtug.sjtu.edu.cn/icon.png"
+        },
+        {
+          "id": 69,
+          "title": "华中科技大学开源镜像站",
+          "url": "https://mirrors.hust.edu.cn/",
+          "description": "华中科技大学镜像站",
+          "icon": "https://mirrors.hust.edu.cn/favicon.ico"
         }
       ]
     },
@@ -298,6 +305,20 @@
           "url": "https://learning.h3c.com/volbeacon/login/login.do",
           "description": "新华三大学",
           "icon": "https://icelearning.h3c.com/volcano2/resource/h3c/image/project/20260304/6e60d357-9ff5-4dd3-8f32-623dab891b22.png"
+        },
+        {
+          "id": 63,
+          "title": "微软学习路线",
+          "url": "https://learn.microsoft.com/zh-cn/training/browse/",
+          "description": "微软官方学习路线",
+          "icon": "https://learn.microsoft.com/favicon.ico"
+        },
+        {
+          "id": 64,
+          "title": "阿里学习资源库",
+          "url": "https://edu.aliyun.com/explore/?spm=a2cwt.28120015.312469.2.25466497W8PZIK&categories=EDU_COURSE&tags=661300%3D661314",
+          "description": "阿里云学习资源库",
+          "icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
         }
       ]
     },
@@ -494,6 +515,34 @@
           "url": "https://firpe.cn/page-196",
           "description": "在线系统重装",
           "icon": "https://firpe.cn/favicon.ico"
+        },
+        {
+          "id": 65,
+          "title": "MAC系统下载",
+          "url": "https://www.macwang.net/macos_summary",
+          "description": "MAC系统下载资源",
+          "icon": "https://www.macwang.net/favicon.ico"
+        },
+        {
+          "id": 66,
+          "title": "苹果系统之家",
+          "url": "https://macoshome.com/macos",
+          "description": "苹果系统之家",
+          "icon": "https://macoshome.com/favicon.ico"
+        },
+        {
+          "id": 67,
+          "title": "衍星-Linux-PE",
+          "url": "https://cnoshome.com/livecd.html",
+          "description": "Linux PE系统",
+          "icon": "https://cnoshome.com/favicon.ico"
+        },
+        {
+          "id": 68,
+          "title": "IBM模拟器",
+          "url": "https://support.xfusion.com/server-simulators/",
+          "description": "IBM服务器模拟器",
+          "icon": "https://support.xfusion.com/favicon.ico"
         }
       ]
     },
@@ -504,38 +553,164 @@
       "bookmarks": [
         {
           "id": 62,
-          "title": "片库",
-          "url": "https://www.qwnull.com/",
-          "description": "影视资源网站",
-          "icon": "https://www.qwnull.com/favicon.ico"
-        },
-        {
-          "id": 63,
-          "title": "追剧也很卷",
-          "url": "https://www.freeok.one/",
-          "description": "追剧资源网站",
-          "icon": "https://p0.meituan.net/csc/587ed7fed11f9ddc99531ce53a0065964745.png"
-        },
-        {
-          "id": 64,
           "title": "电影先生",
           "url": "https://www.zgcwt.com/",
           "description": "电影资源网站",
           "icon": "https://www.zgcwt.com/favicon.ico"
         },
         {
-          "id": 65,
-          "title": "茶杯狐",
-          "url": "https://www.ncupfox.com/",
-          "description": "茶杯狐影视搜索",
-          "icon": "https://www.ncupfox.com/favicon.ico"
+          "id": 70,
+          "title": "电影派",
+          "url": "https://www.moviepai.com/",
+          "description": "电影资源网站",
+          "icon": "https://www.moviepai.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "name": "安全检测",
+      "icon": "🔍",
+      "bookmarks": [
+        {
+          "id": 71,
+          "title": "VirusTotal",
+          "url": "https://www.virustotal.com/",
+          "description": "全球最知名的多引擎检测平台，集成70+杀毒引擎",
+          "icon": "https://www.virustotal.com/favicon.ico"
         },
         {
-          "id": 66,
-          "title": "星火4K",
-          "url": "https://www.spark4k.cn/",
-          "description": "4K影视资源",
-          "icon": "https://www.spark4k.cn/upload/mxcms/20260204-1/11bd3f5f2b11853dd5bccd136c4160d2.png"
+          "id": 72,
+          "title": "Google安全浏览透明度报告",
+          "url": "https://transparencyreport.google.com/safe-browsing/search",
+          "description": "谷歌官方安全检测，识别钓鱼网站和恶意软件分发站点",
+          "icon": "https://www.google.com/favicon.ico"
+        },
+        {
+          "id": 73,
+          "title": "360网站安全检测",
+          "url": "http://webscan.360.cn/",
+          "description": "国内首个集漏洞检测、篡改检测和挂马检测于一体的免费平台",
+          "icon": "http://webscan.360.cn/favicon.ico"
+        },
+        {
+          "id": 74,
+          "title": "百度网站安全检测",
+          "url": "https://anquan.baidu.com/product/urlsec",
+          "description": "基于百度大数据和AI技术的恶意网址检测服务",
+          "icon": "https://www.baidu.com/favicon.ico"
+        },
+        {
+          "id": 75,
+          "title": "腾讯哈勃分析系统",
+          "url": "https://habo.qq.com/",
+          "description": "腾讯反病毒实验室研发的智能安全检测平台，需注册使用",
+          "icon": "https://habo.qq.com/favicon.ico"
+        },
+        {
+          "id": 76,
+          "title": "VirSCAN",
+          "url": "https://www.virscan.org/",
+          "description": "中文多引擎文件在线检测平台，免注册使用",
+          "icon": "https://www.virscan.org/favicon.ico"
+        },
+        {
+          "id": 77,
+          "title": "微步在线云沙箱",
+          "url": "https://s.threatbook.cn/",
+          "description": "一站式在线文件威胁分析平台，免注册使用",
+          "icon": "https://s.threatbook.cn/favicon.ico"
+        },
+        {
+          "id": 78,
+          "title": "腾讯安全-网址安全中心",
+          "url": "https://urlsec.qq.com/check.html",
+          "description": "腾讯网址安全检测",
+          "icon": "https://urlsec.qq.com/favicon.ico"
+        },
+        {
+          "id": 79,
+          "title": "腾讯云天御|安全检测",
+          "url": "https://secsdk.qq.com/app-login?redirect=/detection",
+          "description": "腾讯云天御安全检测服务",
+          "icon": "https://secsdk.qq.com/favicon.ico"
+        },
+        {
+          "id": 80,
+          "title": "奇安信威胁情报中心",
+          "url": "https://ti.qianxin.com/",
+          "description": "奇安信官方威胁情报平台，提供全面的安全检测服务",
+          "icon": "https://ti.qianxin.com/favicon.ico"
+        },
+        {
+          "id": 81,
+          "title": "360威胁情报中心",
+          "url": "https://ti.360.net/",
+          "description": "360官方威胁情报分析平台",
+          "icon": "https://ti.360.net/favicon.ico"
+        },
+        {
+          "id": 82,
+          "title": "魔盾安全分析",
+          "url": "https://www.maldun.com/",
+          "description": "专业的恶意软件分析平台",
+          "icon": "https://www.maldun.com/favicon.ico"
+        },
+        {
+          "id": 83,
+          "title": "安全联盟",
+          "url": "https://www.anquan.org/",
+          "description": "由知道创宇创建的企业大数据信用评价平台",
+          "icon": "https://www.anquan.org/favicon.ico"
+        },
+        {
+          "id": 84,
+          "title": "Jotti恶意软件扫描",
+          "url": "https://virusscan.jotti.org/",
+          "description": "国际知名的恶意软件扫描系统",
+          "icon": "https://virusscan.jotti.org/favicon.ico"
+        },
+        {
+          "id": 85,
+          "title": "Hybrid Analysis",
+          "url": "https://www.hybrid-analysis.com/",
+          "description": "Falcon Sandbox的在线版本，提供深度文件分析",
+          "icon": "https://www.hybrid-analysis.com/favicon.ico"
+        },
+        {
+          "id": 86,
+          "title": "SSL Labs SSL测试",
+          "url": "https://www.ssllabs.com/ssltest/",
+          "description": "专业的SSL/TLS配置检测工具",
+          "icon": "https://www.ssllabs.com/favicon.ico"
+        },
+        {
+          "id": 87,
+          "title": "DNSDumpster",
+          "url": "https://dnsdumpster.com/",
+          "description": "免费的DNS侦察和安全分析工具",
+          "icon": "https://dnsdumpster.com/favicon.ico"
+        },
+        {
+          "id": 88,
+          "title": "URLhaus",
+          "url": "https://urlhaus.abuse.ch/",
+          "description": "专门检测恶意URL的数据库平台",
+          "icon": "https://urlhaus.abuse.ch/favicon.ico"
+        },
+        {
+          "id": 89,
+          "title": "阿里云云盾",
+          "url": "https://www.aliyun.com/product/yundun",
+          "description": "阿里云提供的网站安全防护和检测服务",
+          "icon": "https://www.aliyun.com/favicon.ico"
+        },
+        {
+          "id": 90,
+          "title": "腾讯云主机安全",
+          "url": "https://cloud.tencent.com/product/cwp",
+          "description": "腾讯云主机安全防护服务",
+          "icon": "https://cloud.tencent.com/favicon.ico"
         }
       ]
     }
